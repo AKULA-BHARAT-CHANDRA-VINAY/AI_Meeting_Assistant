@@ -1,0 +1,10 @@
+Flask==2.2.2
+mysql-connector-python==8.0.33
+librosa
+noisereduce
+numpy
+torch
+transformers
+whisper
+soundfile
+gTTS
