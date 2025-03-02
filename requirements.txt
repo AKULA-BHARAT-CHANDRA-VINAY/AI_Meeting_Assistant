@@ -8,3 +8,4 @@ transformers
 whisper
 soundfile
 gTTS
+Werkzeug==2.0.3
