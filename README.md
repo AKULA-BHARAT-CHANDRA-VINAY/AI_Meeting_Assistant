@@ -1,1 +1,1 @@
-# backend_meeting_assistant
+# AI_Meeting_Assistant
